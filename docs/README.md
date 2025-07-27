@@ -6,6 +6,26 @@ Each project includes an interactive HTML report. Click the links below to explo
 
 ---
 
+![GitHub Pages](https://img.shields.io/badge/View%20Live-Site-blue?logo=github)
+![Repo Status](https://img.shields.io/badge/status-active-brightgreen)
+![Projects](https://img.shields.io/badge/projects-9-blueviolet)
+
+---
+
+## 📚 Table of Contents
+
+- [1. Travel Package Purchase Prediction](#1-travel-package-purchase-prediction)
+- [2. Credit Card Churn](#2-credit-card-churn)
+- [3. Plant Seedling Classification](#3-plant-seedling-classification)
+- [4. Cardio Good Fitness](#4-cardio-good-fitness)
+- [5. Cars4U](#5-cars4u)
+- [6. Classification – Personal Loan](#6-classification--personal-loan)
+- [7. AllLife Bank Customer Segmentation](#7-alllife-bank-customer-segmentation)
+- [8. Bank Churn Prediction – Deep Neural Networks](#8-bank-churn-prediction--deep-neural-networks)
+- [9. Twitter US Airline Sentiment](#9-twitter-us-airline-sentiment)
+
+---
+
 ## 📈 Projects
 
 ### 1. [Travel Package Purchase Prediction](https://eatihan.github.io/solid-eureka/travel_prediction/report.html)
