@@ -14,13 +14,13 @@ It implements different models using ensemble techniques like decision tree, bag
 
 ---
 
-### 2. [Credit Card Churn](https://eatihan.github.io/solid-eureka/credit_card_churn/report.html)
+### 2. [Credit Card Churn](https://eatihan.github.io/solid-eureka/credit_card_users_churn_prediction/report.html)
 The goal of this project is to come up with a classification model that will help the bank improve its services.
 It explores and visualizes the data, builds a classification model, and optimizes it using techniques like cross-validation and hyperparameter tuning.
 
 ---
 
-### 3. [Plant Seedling Classification](https://eatihan.github.io/solid-eureka/Project_Plant_Seedlings_Classification/report.html)
+### 3. [Plant Seedling Classification](https://eatihan.github.io/solid-eureka/plant_seedlings_classification/report.html)
 The goal of the project is to classify plant seedlings into their respective 12 categories.
 It implements Convolutional Neural Networks (CNNs) and explores techniques like data augmentation, batch normalization, and transfer learning.
 
@@ -36,25 +36,25 @@ This project visualizes data and implements a linear regression model to predict
 
 ---
 
-### 6. [Classification – Personal Loan](https://eatihan.github.io/solid-eureka/personal_loan_classification/report.html)
+### 6. [Classification – Personal Loan](https://eatihan.github.io/solid-eureka/classification_personal_loan/report.html)
 This project helps the marketing department identify potential customers likely to purchase a loan.
 It uses logistic regression and decision tree classifiers, and evaluates them using metrics like confusion matrix and ROC.
 
 ---
 
-### 7. [AllLife Bank Customer Segmentation](https://eatihan.github.io/solid-eureka/alllife_segmentation/report.html)
+### 7. [AllLife Bank Customer Segmentation](https://eatihan.github.io/solid-eureka/unsupervised_learning/report.html)
 This project identifies different segments in existing customers based on their spending patterns and provides recommendations to the bank.
 It uses hierarchical clustering and K-means clustering, performs cluster profiling, and offers business insights.
 
 ---
 
-### 8. [Bank Churn Prediction – Deep Neural Networks](https://eatihan.github.io/solid-eureka/bank_churn_dnn/report.html)
+### 8. [Bank Churn Prediction – Deep Neural Networks](https://eatihan.github.io/solid-eureka/deep_neural_networks_bank_churn_prediction/report.html)
 This project builds a neural network-based classifier that can determine whether a customer will leave in the next six months.
 It visualizes the data and compares different ANN models with varying numbers of layers using confusion matrices.
 
 ---
 
-### 9. [Twitter US Airline Sentiment](https://eatihan.github.io/solid-eureka/twitter_sentiment/report.html)
+### 9. [Twitter US Airline Sentiment](https://eatihan.github.io/solid-eureka/Twitter_US_Airline_Sentiment/report.html)
 This project performs sentiment analysis of major US airlines using scraped Twitter data.
 It applies NLP techniques like TF-IDF vectorization and uses classification models on numerical text representations. WordCloud is used for sentiment visualization.
 
